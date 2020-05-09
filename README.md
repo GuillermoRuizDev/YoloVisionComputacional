@@ -1,4 +1,4 @@
-# YoloVisionComputacional
+# Yolov3 Vision Computacional PUCP IA 2020
 Proyecto Yolo de Visión Computacional
 
 Detección de objetos en tiempo real_YOLO
